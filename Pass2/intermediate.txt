@@ -1,0 +1,11 @@
+1000                  START      1000      
+1000       FIRST      LDA        FIVE      
+1003                  ADD        LOOP      
+1006                  STA        RESULT    
+1009                  LDCH       CHARZ     
+100C                  STCH       RESULT    
+100F                  END        FIRST     
+1012       FIVE       WORD       5         
+1015       LOOP       RESW       1         
+1018       RESULT     RESW       1         
+101B       CHARZ      BYTE       C'Z'      

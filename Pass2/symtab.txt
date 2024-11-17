@@ -1,0 +1,5 @@
+FIRST      1000
+FIVE       1012
+LOOP       1015
+RESULT     1018
+CHARZ      101B

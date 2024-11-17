@@ -1,0 +1,6 @@
+LDA        0         
+ADD        18        
+STA        C         
+LDCH       50        
+STCH       54        
+END        0         
